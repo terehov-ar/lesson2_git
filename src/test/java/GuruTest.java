@@ -6,6 +6,7 @@ public class GuruTest {
     void searchTest() {
         System.out.println("Hello, friend!");
         System.out.println("Goodbye!");
+        System.out.println("Anything");
     }
 
 }
